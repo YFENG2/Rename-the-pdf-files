@@ -1,0 +1,5 @@
+language: Python 3
+module requirment: pdfminer, os, io, re
+
+usage: fix the file path you wanted.
+       python3 rename.py
